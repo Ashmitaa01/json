@@ -1,29 +1,29 @@
               {
   "offers": [
     {
-      "name": "Bread",
+      "name": "COKE",
+      "discount": "20",
+      "url": "https://www.google.com/search?sca_esv=5b4a214e63f65c0a&rlz=1C1CHBF_enNP1164NP1164&sxsrf=AE3TifOetpN8ZYyzO2sc3r1uGTDEmqI5hw:1757523524935&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJjYuUnSkczEhozYdaq1wZrEK1eJTOxNFl8iJmT50UfNkt3ufz5T17lYhwM89IACcx81dIdSc7q7OFzLCnHbaqDSkLQXtl6xug3W55olXm69c8ZCvT9uowhNK1ep247USNH1ib11UEXcvdo3JHM4JBLOMgGZuw&q=coke&sa=X&ved=2ahUKEwjTpo2r1c6PAxV5S3ADHY_wKfcQtKgLegQIIhAB&biw=1366&bih=641&dpr=1#vhid=8EcvU_n8IaEGSM&vssid=mosaic"
+    },
+    {
+      "name": "Lays",
+      "discount": "15",
+      "url": "https://www.google.com/search?sca_esv=5b4a214e63f65c0a&rlz=1C1CHBF_enNP1164NP1164&sxsrf=AE3TifPUPka2iFDok7Opt1DGoJ9n-jjZbg:1757523585442&q=lays+wikipedia&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIegmO5mMVANqcM7XWkBOa06dn2D9OWgTLQfUrJnETgD74R4wfK5HnXhGEj7DL013zMHq4d_7ReFnbsPX5m1CAQKeYpNN3g9eTAZwSsTSLnd4isdQfnGCrX3ON1REdfAUvOGNWWqyXVYC0cNQcsy0b6Nk2G3tIKupQIXAcaFdDVVcRFwBlJA&sa=X&ved=2ahUKEwjaqfrH1c6PAxUnTmwGHYHvD0MQ0pQJegQICRAB&biw=1366&bih=641&dpr=1"
+    },
+    {
+      "name": "Snickers",
+      "discount": "5",
+      "url": "https://www.google.com/search?sca_esv=5b4a214e63f65c0a&rlz=1C1CHBF_enNP1164NP1164&sxsrf=AE3TifO4gY3e8ED9j9R_a8lzav4VCERBag:1757523670119&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOhYPURIv2wPgv_w_sE_0Sc6QqqU7k8cSQndc5mTXCIWHa_uc-TjDJYRtLl-RKXlVOTL5mI-WiiglTJRFGvAEXXnfLCt0BkYsC0T-4-k-mSSl9LqZBVj0n-XtnANItk--Gvyv2TNedRXhVojzV4R3s6nqe8F-Yg&q=snickers&sa=X&ved=2ahUKEwiIzarw1c6PAxXDcGwGHVA5InwQtKgLegQIDBAB&biw=1366&bih=641&dpr=1#vhid=IbVtXZpXIkf1-M&vssid=mosaic"
+    },
+    {
+      "name": ""Peanut Butter,
       "discount": "200",
-      "url": "https://m.media-amazon.com/images/M/MV5BNTM4YThiMzktMDRlNi00NzAyLWI1YmQtNTdkMTNiN2Q0NzU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      "url": "https://www.google.com/search?q=peanut+butter&sca_esv=5b4a214e63f65c0a&rlz=1C1CHBF_enNP1164NP1164&udm=2&biw=1366&bih=641&sxsrf=AE3TifO6obnvzIV-Fc7tD27unMSiZG1gHw%3A1757523673019&ei=2a7BaN1vgpOx4w-o6sq5BA&ved=0ahUKEwidwNvx1c6PAxWCSWwGHSi1MkcQ4dUDCBE&uact=5&oq=pea&gs_lp=EgNpbWciA3BlYSoCCAAyChAAGIAEGEMYigUyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGLEDMgsQABiABBixAxiDATIFEAAYgARIgE9QjQVY7T5wCHgAkAEAmAHoAaAB3hGqAQYwLjEyLjG4AQHIAQD4AQGYAhWgAucSqAIKwgIHECMYJxjJAsICDhAAGIAEGLEDGIMBGIoFwgIKECMYJxjJAhjqApgDCZIHBjguMTEuMqAHmkSyBwYwLjExLjK4B7ISwgcGMi0xOC4zyAd7&sclient=img#vhid=EH-YnmgVm_16CM&vssid=mosaic"
     },
     {
-      "name": "Super Man",
-      "discount": "50",
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
-    },
-    {
-      "name": "Thor",
-      "discount": "50",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQbuKL7NfxTMy1wUymb2tu25NONgb7TU_NE-KOzWF9UfMU5rRz"
-    },
-    {
-      "name": "Hulk",
-      "discount": "200",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmp1rFpGLbPnfH6P_IlBcZyXa72_IIMeunYiZ8UEfvAkD0t-sa"
-    },
-    {
-      "name": "Vemon",
+      "name": "Nuts",
       "discount": "30",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ"
+      "url": "https://www.google.com/search?q=nuts&sca_esv=5b4a214e63f65c0a&rlz=1C1CHBF_enNP1164NP1164&udm=2&biw=1366&bih=641&sxsrf=AE3TifPaBfgeMQmMbyEkxYPqYglZMLGBSw%3A1757523726874&ei=Dq_BaOiQNYeywcsPkf3DkAQ&ved=0ahUKEwjoz7KL1s6PAxUHWXADHZH-EEIQ4dUDCBE&uact=5&oq=nuts&gs_lp=EgNpbWciBG51dHMyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIhAlQgAJY_QVwAXgAkAEAmAHJAaAB2wWqAQUwLjMuMbgBA8gBAPgBAZgCBaAC_wWoAgrCAgoQIxgnGMkCGOoCwgIHECMYJxjJAsICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QABiABBixAxiDARiKBcICDRAAGIAEGLEDGEMYigWYAwuSBwUxLjMuMaAHhRmyBwUwLjMuMbgH9AXCBwUyLTQuMcgHHw&sclient=img#vhid=tQ8htgnxZfP5uM&vssid=mosaic"
     }
   ]
 }
